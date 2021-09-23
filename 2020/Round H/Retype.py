@@ -1,3 +1,4 @@
+### Full points
 cases = int(input())
 arr = []
 for i in range(cases):
